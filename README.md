@@ -15,7 +15,7 @@
 -Deletes saved link
 
 - POST /api/fetcher
-`{url":"https://httpbin.org/6/delay","interval":10}`
+`{url":"https://httpbin.org/delay/6","interval":10}`
 -Create new or update existing link
 
 #### Worker
